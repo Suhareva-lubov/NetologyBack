@@ -1,11 +1,11 @@
 {
-  "name": "yy",
+  "name": "netology-back",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "cmd1":"./index.js"
+    "find-date":"./task1.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
